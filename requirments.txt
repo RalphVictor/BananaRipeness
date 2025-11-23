@@ -1,7 +1,8 @@
 BananaRipeness/
  ├── app.py
- ├── requirements.txt   <-- MUST be here
+ ├── requirements.txt 
  ├── templates/
  ├── static/
  ├── data/
  └── README.md
+
