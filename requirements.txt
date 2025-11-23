@@ -4,3 +4,4 @@ roboflow
 Pillow
 opencv-python
 python-dotenv
+
