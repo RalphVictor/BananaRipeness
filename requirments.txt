@@ -1,17 +1,7 @@
-BananaDetection/
+BananaRipeness/
  ├── app.py
- ├── requirements.txt    
- ├── data/
- │   └── detections.json
- ├── static/
- │   ├── app.js
- │   ├── design.js
- │   ├── Logo.png
- │   ├── style.css
- │   └── uploads/
+ ├── requirements.txt   <-- MUST be here
  ├── templates/
- │   ├── index.html
- │   └── result.html
- ├── README.md
- └── uploads/   
-
+ ├── static/
+ ├── data/
+ └── README.md
