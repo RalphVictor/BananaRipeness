@@ -1,8 +1,6 @@
-BananaRipeness/
- ├── app.py
- ├── requirements.txt 
- ├── templates/
- ├── static/
- ├── data/
- └── README.md
-
+Flask
+gunicorn
+roboflow
+Pillow
+opencv-python
+python-dotenv
